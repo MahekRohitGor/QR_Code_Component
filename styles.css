@@ -1,0 +1,37 @@
+body{
+  background: hsl(212, 45%, 89%);
+}
+#pricing {
+  padding: 80px;
+}
+
+.mess-text {
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: 700;
+  text-align: center;
+}
+
+.mess-text-1{
+  font-weight: 400;
+  text-align: center;
+  color: hsl(218, 44%, 22%);
+}
+.img{
+  border-radius: 7%;
+  border: 5px solid white;
+  padding-top: 4%;
+}
+.attribution { font-size: 11px; text-align: center; padding-top: 10%;}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+#inner {
+  display: table;
+  margin: 0 auto;
+}
+
+#outer {
+  width:100%;
+  border-radius: 5%;
+  margin-top: 5%;
+}
